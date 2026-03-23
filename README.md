@@ -1,4 +1,4 @@
-Human Concern Timeseries 
+Human Concern Timeseries
 
 A time series analysis of global search behavior patterns for five human concern 
 indicators - Anxiety, Depression, Insomnia, Loneliness and Stress - using Google 
