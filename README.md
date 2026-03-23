@@ -4,7 +4,7 @@ indicators - Anxiety, Depression, Insomnia, Loneliness and Stress - using Google
 Trends data from January 2004 to March 2026.
 
 Preview
-![Anomaly Detection Dashboard](anomaly_detection.png)
+![Anomaly Detection Dashboard](screenshot_anomaly.png.jpeg)
 
 Tools 
 - Python · Pandas · Matplotlib · Seaborn · Statsmodels · Prophet
