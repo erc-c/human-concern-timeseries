@@ -3,6 +3,9 @@ A time series analysis of global search behavior patterns for five human concern
 indicators - Anxiety, Depression, Insomnia, Loneliness and Stress - using Google 
 Trends data from January 2004 to March 2026.
 
+Preview
+![Trend Lines](01_trend_lines.png)
+
 Tools 
 - Python · Pandas · Matplotlib · Seaborn · Statsmodels · Prophet
 - Jupyter Notebook
@@ -34,6 +37,12 @@ Power BI Dashboard
 - Summary
 - Temporal Patterns
 - Volatility and Stability
+
+Data Notes
+- Source: Google Trends (trends.google.com)
+- Each term downloaded separately - values are independently normalized to 0-100
+- Monthly resolution across 267 data points (January 2004 - March 2026)
+- 5 concerns tracked: Anxiety, Depression, Insomnia, Loneliness, Stress
 
 Project Structure
 ```
