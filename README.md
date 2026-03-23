@@ -1,4 +1,5 @@
 Human Concern Timeseries 
+
 A time series analysis of global search behavior patterns for five human concern 
 indicators - Anxiety, Depression, Insomnia, Loneliness and Stress - using Google 
 Trends data from January 2004 to March 2026.
