@@ -36,11 +36,13 @@ Power BI Dashboard
 - Volatility and Stability
 
 Project Structure
---- Analysis.ipynb
---- anxiety.csv
----depression.csv
---- insomnia.csv
---- loneliness.csv
---- stress.csv
---- outputs/
---- human-concern-timeseries.pbix
+```
+├── Analysis.ipynb
+├── anxiety.csv
+├── depression.csv
+├── insomnia.csv
+├── loneliness.csv
+├── stress.csv
+├── outputs/
+└── human-concern-timeseries.pbix
+```
